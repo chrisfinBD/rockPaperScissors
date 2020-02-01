@@ -1,0 +1,21 @@
+.weapon {
+
+    padding: 50px;
+    // margin: 20px;
+    border: 1px solid black;
+}
+
+.selected {
+  border: 1px solid green;
+  background-color: green;
+
+}
+
+.section {
+    margin: 20px;
+    display: block
+}
+
+.hidden {
+    display: none
+}
